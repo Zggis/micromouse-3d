@@ -44,7 +44,7 @@ You can print the dowel test part in this directory to help you determine which 
 
 - For the pillars, I recommend starting with a loose fit. Dowels will be glued into them which should hold them securely.
 - For Vertex and Ramp, I recommend a very snug fit.
-- From my experience, a batch of dowels is pretty consistent. If you switch batches, you should recheck the fit. If your pins don't work with these tolerances, you can [open an issue](issues/new) and I will try to create a new size for you. I will only consider this for 6mm pins that are equal length to those in the bill of materials.
+- From my experience, a batch of dowels is pretty consistent. If you switch batches, you should recheck the fit. If your pins don't work with these tolerances, you can [open an issue](https://github.com/zggis/micromouse-3d/issues/new) and I will try to create a new size for you. I will only consider this for 6mm pins that are equal length to those in the bill of materials.
 
 ### Material
 
