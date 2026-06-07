@@ -6,7 +6,7 @@ For MM3D, allowing competitors to know the location and orientation of ramps bef
 
 ## Pyramid Event
 
-![](/../assets/images/pyramid.jpg)
+![](./../assets/images/pyramid.jpg)
 
 The pyramid maze has multiple levels, each getting smaller with the goal at the center of the top level. Each level has one ramp in a known location and a known orientation. The locations and orientation of the ramps generally have some symmetry across the levels.
 

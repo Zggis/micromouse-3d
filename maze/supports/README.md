@@ -1,6 +1,6 @@
 # Supports
 
-![](/../../assets/images/support.jpg)
+![](./../../assets/images/support.jpg)
 
 ## Print Settings
 
@@ -34,4 +34,4 @@
 
 Attached the base to the elevated cell which will allow it to sit on top of walls.
 
-![](/../../assets/images/elevated_cell.jpg)
+![](./../../assets/images/elevated_cell.jpg)

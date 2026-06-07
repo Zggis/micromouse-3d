@@ -1,6 +1,6 @@
 # Cell Insert
 
-![](/../../assets/images/cell-insert.jpg)
+![](./../../assets/images/cell-insert.jpg)
 
 ## Print Settings
 
@@ -23,4 +23,4 @@ The panels can be easily removed to extract your robot if it gets stuck.
 
 ## Assembly
 
-![](/../../assets/images/cell-insert-assembled.jpg)
+![](./../../assets/images/cell-insert-assembled.jpg)
