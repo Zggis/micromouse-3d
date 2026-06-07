@@ -28,14 +28,17 @@ The pyramid maze has multiple levels, each getting smaller with the goal at the 
 
 ## Bridge Event
 
+![](./../assets/images/bridge.jpg)
+
 The bridge maze has two levels and two ramps. The second level acts like a bridge which must be traversed to reach the goal. The maze is configured in such a way robots are required to travel up one ramp and down the other to reach the final goal on the first level.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a grid of 6 x 6 cells
+- Second level is a grid of 10 x 4 cells
 - The goal is in the opposite corner the robot starts in on the first level
-- Ramps are in known locations with known orientations
+- Ramps are in known locations with known orientations along the opposite walls robots enter the level from
+- Robots will start facing the first ramp they must traverse to reach the bridge
 
-Here is a 3D rending of an example bridge maze. In this rending, all the walls you see are those which you can assume are present, except one wall outlining the goal.
+[Here](bridge.STL) is a 3D rending of an example bridge maze. In this rending, all the walls you see are those which you can assume are present, except one wall outlining the goal.
 
 - Rankings are determined in the same way as the pyramid event above.
 - Robots have 10 minutes in the maze to perform as many runs as they want.
