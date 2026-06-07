@@ -2,7 +2,7 @@
 
 MM3D can be used as a stand-alone maze or an add-on to an existing maze.
 
-If you do not have a Micromomouse maze, you can use the parts [here](/base/) to create your base level.
+If you do not have a Micromomouse maze, you can use the parts [here](./base/) to create your base level.
 
 All the 3D print files for MM3D are available in the subdirectories. Additional README files can be found in each directory explaining what the part is used for and the recommended print settings for it.
 
