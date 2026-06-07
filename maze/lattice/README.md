@@ -2,7 +2,7 @@
 
 If using the elevated cells, you do not need to print vertices for levels supported by the elevated cells.
 
-![](/../../assets/images/lattice.jpg)
+![](./../../assets/images/lattice.jpg)
 
 ## Print Settings
 
@@ -22,8 +22,8 @@ The connectors should have the insert slot facing up to it can cradle the cell i
 
 Vertices will have either a support pillar or standard pillar inserted into them depending on if they are on the top or mid-level of the maze.
 
-![](/../../assets/images/lattice_assembled.jpg)
+![](./../../assets/images/lattice_assembled.jpg)
 
 The ramp connector is secured to the ramp using standard pillars.
 
-![](/../../assets/images/ramp_connector.jpg)
+![](./../../assets/images/ramp_connector.jpg)
