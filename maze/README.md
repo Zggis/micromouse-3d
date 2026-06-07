@@ -32,8 +32,8 @@ Some parts require you to insert 6mm wooden dowels. The dowels mentioned above c
 | _61              | 6.1mm               |
 | _62              | 6.2mm               |
 
-- For the pillars, I recommend starting with a loose fit. Dowels will be glued into them which should hole them securely.
-- For Vertex and Ramp, I recommend a very snug fit. Since the dowels are glued into the pillar, you can grip them easier to twist them into place.
+- For the pillars, I recommend starting with a loose fit. Dowels will be glued into them which should hold them securely.
+- For Vertex and Ramp, I recommend a very snug fit.
 - From my experience, a batch of dowels is pretty consistent. If you switch bathes, you should recheck the fit.
 
 ### Print Settings & Orientation
