@@ -11,8 +11,8 @@ For MM3D, allowing competitors to know the location and orientation of ramps bef
 The pyramid maze has multiple levels, each getting smaller with the goal at the center of the top level. Each level has one ramp in a known location and a known orientation. The locations and orientation of the ramps generally have some symmetry across the levels.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a grid of 6 x 6 cells
-- Third level is a grid of 4 x 4 cells
+- Second level is a grid of 6 x 7 cells
+- Third level is a grid of 3 x 4 cells
 - Ramps are located along the opposite wall from where robots enter a level
 
 [Here](pyramid.STL) is a 3D rendering of an example pyramid maze you can rotate and move around. In this rendering, all the walls you see are those which you can assume are present, except one wall outlining the goal.
@@ -40,5 +40,6 @@ The bridge maze has two levels and two ramps. The second level acts like a bridg
 
 [Here](bridge.STL) is a 3D rending of an example bridge maze. In this rending, all the walls you see are those which you can assume are present, except one wall outlining the goal.
 
+- Do not make any assumptions about how the first level is divided up, or how many cells on the first level need to be traversed on either side of the bridge.
 - Rankings are determined in the same way as the pyramid event above.
 - Robots have 10 minutes in the maze to perform as many runs as they want.
