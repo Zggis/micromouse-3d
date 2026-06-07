@@ -1,6 +1,6 @@
 # Walls
 
-![](/../../assets/images/walls.jpg)
+![](./../../assets/images/walls.jpg)
 
 ## Multi Color
 
