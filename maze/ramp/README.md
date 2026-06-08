@@ -1,5 +1,7 @@
 # Ramp
 
+![](./../../assets/images/ramp.jpg)
+
 ## Print Settings
 
 - Orient the ramp parts on the bed the same way they will sit in the maze.
@@ -16,6 +18,8 @@
 The three ramp sections slide together, no glue is necessary. To connect the ramp to the lattice use the ramp vertex part secured in pace with two pillars.
 
 To add walls to the ramp, you can use the special ramp walls along with the standard pillars to anchor them into the ramp.
+
+![](./../../assets/images/ramp_assembled.jpg)
 
 ### Note
 
