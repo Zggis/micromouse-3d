@@ -7,7 +7,9 @@
 ### Support Pillars
 
 - Orient the support pillar on the bed the same way they will sit in the maze.
-- The support pillars are the most challenging part to print and tend to get knocked off the bed, especially when printing them in batches. To counter this, use an 8mm brim, enable Z-Hop or Lift Height (without ramping), and consider slowing down your print speed, perhaps using a height modified for the top. You should also ensure you have good bed adhesion, consider increasing your first layer print and bed temperatures.
+
+> [!WARNING]
+> The support pillars are the most challenging part to print and tend to get knocked off the bed, especially when printing them in batches. To counter this, use an 8mm brim, enable Z-Hop or Lift Height (without ramping), and consider slowing down your print speed, perhaps using a height modified for the top. You should also ensure you have good bed adhesion, consider increasing your first layer print and bed temperatures.
 
 | Setting                 | Value | Reason                                                                                                 |
 |-------------------------|-------|--------------------------------------------------------------------------------------------------------|

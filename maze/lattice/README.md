@@ -1,7 +1,5 @@
 # Lattice Structure
 
-If using the elevated cells, you do not need to print vertices for levels supported by the elevated cells.
-
 ![](./../../assets/images/lattice.jpg)
 
 ## Print Settings
@@ -15,6 +13,9 @@ If using the elevated cells, you do not need to print vertices for levels suppor
 | Solid Layers - TOP      | 5     |                                                                                            |
 
 ## Assembly
+
+> [!NOTE]
+> If using the elevated cells, you do not need to print vertices for levels supported by the elevated cells.
 
 The dovetails in the vertices should face up so the connectors slide down into them.
 

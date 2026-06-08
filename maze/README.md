@@ -34,7 +34,9 @@ If you are confused about a part's print orientation, open the STL file which wi
 Some parts require you to insert 6mm wooden dowel pins.
 The pins mentioned above can vary in diameter, I have measured between 5.60mm - 5.85mm.
 To help accommodate this variation, all parts requiring pins are available with three different size holes.
-You can print the dowel test part in this directory to help you determine which size to use for which part.
+
+> [!TIP]
+> You can print the dowel test part in this directory to help you determine which size to use for which part.
 
 | File Type Suffix | Dowel Hole Diameter |
 |------------------|---------------------|
@@ -42,15 +44,24 @@ You can print the dowel test part in this directory to help you determine which 
 | _61              | 6.1mm               |
 | _62              | 6.2mm               |
 
-- For the pillars, I recommend starting with a loose fit. Dowels will be glued into them which should hold them securely.
-- For Vertex and Ramp, I recommend a very snug fit.
-- From my experience, a batch of dowels is pretty consistent. If you switch batches, you should recheck the fit. If your pins don't work with these tolerances, you can [request a new size](https://github.com/zggis/micromouse-3d/issues/new?template=new-dowel-hole-diameter-request.md) and I will try to accommodate. I will only consider this for 6mm pins that are equal length to those in the bill of materials.
+> [!TIP]
+> For the pillars, I recommend starting with a loose fit.
+> For Vertex and Ramp, I recommend a very snug fit.
+> From my experience, a batch of dowels is pretty consistent.
+> If you switch batches, you should recheck the fit.
+
+> [!NOTE]
+> If your pins don't work with these tolerances,
+> you can [request a new size](https://github.com/zggis/micromouse-3d/issues/new?template=new-dowel-hole-diameter-request.md)
+> and I will try to accommodate.
+> I will only consider this for 6mm pins that are equal length to those in the bill of materials.
 
 ### Material
 
 I printed all the parts in PLA. Other materials may cause parts to shrink and impact the tolerances. You can try to scale the parts up in your slicer to account for this, but I have not tested it.
 
-Try to keep printed parts away from direct sunlight, the connectors in particular can droop if they are exposed to heat while assembled.
+> [!WARNING]
+> Try to keep printed parts away from direct sunlight, the connectors in particular can droop if they are exposed to heat while assembled.
 
 ### Calibration
 
