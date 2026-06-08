@@ -32,7 +32,7 @@ If you are confused about a part's print orientation, open the STL file which wi
 ### Dowel Holes
 
 Some parts require you to insert 6mm wooden dowel pins.
-The pins mentioned above can vary in diameter, I have measured between 5.6mm - 5.85mm.
+The pins mentioned above can vary in diameter, I have measured between 5.60mm - 5.85mm.
 To help accommodate this variation, all parts requiring pins are available with three different size holes.
 You can print the dowel test part in this directory to help you determine which size to use for which part.
 
@@ -44,7 +44,7 @@ You can print the dowel test part in this directory to help you determine which 
 
 - For the pillars, I recommend starting with a loose fit. Dowels will be glued into them which should hold them securely.
 - For Vertex and Ramp, I recommend a very snug fit.
-- From my experience, a batch of dowels is pretty consistent. If you switch batches, you should recheck the fit. If your pins don't work with these tolerances, you can [open an issue](https://github.com/zggis/micromouse-3d/issues/new?template=new-dowel-hole-diameter-request.md) and I will try to create a new size for you. I will only consider this for 6mm pins that are equal length to those in the bill of materials.
+- From my experience, a batch of dowels is pretty consistent. If you switch batches, you should recheck the fit. If your pins don't work with these tolerances, you can [request a new size](https://github.com/zggis/micromouse-3d/issues/new?template=new-dowel-hole-diameter-request.md) and I will try to accommodate. I will only consider this for 6mm pins that are equal length to those in the bill of materials.
 
 ### Material
 

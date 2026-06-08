@@ -23,4 +23,5 @@ To add walls to the ramp, you can use the special ramp walls along with the stan
 
 ### Note
 
-If you are placing a ramp on a lattice level cell inserts are not required underneath, the ramp can sit on the connectors alone.
+If you are placing a ramp on an upper level cell inserts are not required underneath,
+the ramp can straddle the connectors.
