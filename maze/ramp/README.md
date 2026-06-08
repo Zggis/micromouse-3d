@@ -15,13 +15,17 @@
 
 ## Assembly
 
-The three ramp sections slide together, no glue is necessary. To connect the ramp to the lattice use the ramp vertex part secured in pace with two pillars.
+The three ramp sections slide together, no glue is necessary. To connect the ramp to the lattice, use the ramp vertex part secured in pace with two pillars.
 
-To add walls to the ramp, you can use the special ramp walls along with the standard pillars to anchor them into the ramp.
+To add walls to the ramp,
+you can use the special ramp walls along with the standard pillars to anchor them into the ramp.
+You can find all of these in the [walls](../walls/) directory.
+
+To add the top pillar and connect the ramp to the lattice,
+you will need the ramp vertex part which can be found in the [lattice](../lattice/) directory.
 
 ![](./../../assets/images/ramp_assembled.jpg)
 
-### Note
-
-If you are placing a ramp on an upper level cell inserts are not required underneath,
-the ramp can straddle the connectors.
+> [!NOTE]
+> If you are placing a ramp on an upper level cell inserts are not required underneath,
+> the ramp can straddle the connectors.
