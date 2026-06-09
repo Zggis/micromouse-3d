@@ -27,5 +27,5 @@ you will need the ramp vertex part which can be found in the [lattice](../lattic
 ![](./../../assets/images/ramp_assembled.jpg)
 
 > [!NOTE]
-> If you are placing a ramp on an upper level cell inserts are not required underneath,
+> If you are placing a ramp on an upper level, cell inserts are not required underneath,
 > the ramp can straddle the connectors.

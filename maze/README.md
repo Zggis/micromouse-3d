@@ -37,18 +37,16 @@ To help accommodate this variation, all parts requiring pins are available with 
 
 > [!TIP]
 > You can print the dowel test part in this directory to help you determine which size to use for which part.
+> For the pillars, I recommend starting with a loose fit.
+> For Vertex and Ramp, I recommend a very snug fit.
+> From my experience, a batch of dowels is pretty consistent.
+> If you switch batches, you should recheck the fit.
 
 | File Type Suffix | Dowel Hole Diameter |
 |------------------|---------------------|
 | _60              | 6.0mm               |
 | _61              | 6.1mm               |
 | _62              | 6.2mm               |
-
-> [!TIP]
-> For the pillars, I recommend starting with a loose fit.
-> For Vertex and Ramp, I recommend a very snug fit.
-> From my experience, a batch of dowels is pretty consistent.
-> If you switch batches, you should recheck the fit.
 
 > [!NOTE]
 > If your pins don't work with these tolerances,
