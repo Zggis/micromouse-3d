@@ -1,8 +1,18 @@
 # Rules
 
-Similar to traditional Micromouse, MM3D allows competitors to make certain assumptions about the maze. These assumptions can be modified to change the level of difficulty for an event. With traditional Micromouse, one common assumption is the goal of the maze is in the center or a known location. This assumption allows competitors to implement search algorithms to find it rather than relying on chance. This is important for beginner and intermediate competitions where a robot may not be able to explore the entire maze and optimize a speed route in the allotted time.
+Similar to traditional Micromouse, MM3D allows competitors to make certain assumptions about the maze.
+These assumptions can be modified to change the level of difficulty for an event.
+With traditional Micromouse, the goal is in a known location.
+This assumption allows competitors to implement search algorithms to find it rather than relying on chance.
+Knowing the goal location is important for beginner and intermediate competitions
+where a robot may not be able to explore the entire maze and optimize a speed route in the allotted time.
 
-For MM3D, allowing competitors to know the location and orientation of ramps beforehand helps to ensure their overall ranking won't be dependent on the random chance. Without these assumptions, a robots ranking may depend on choosing a left or right turn when little to no information is available for its algorithm to use.
+For MM3D,
+allowing competitors to know the location and orientation of ramps beforehand helps
+to ensure their overall ranking won't be dependent on the random chance.
+Without these assumptions,
+a robot's decision
+to make a left or right turn with no information can be the deciding factor in a competition.
 
 ## Pyramid Event
 
