@@ -1,6 +1,6 @@
 # Supports
 
-![](./../../assets/images/support.jpg)
+![](./../../assets/images/supports.jpg)
 
 ## Print Settings
 
@@ -32,8 +32,8 @@
 
 6mm dowel pins should be glued into the pillars and elevated cell. I recommend using the dowels mentioned in the bill of materials to ensure the best fit.
 
-2 drops of glue per hole should be all that is needed.
+1 - 2 drops of glue per hole should be all that is needed.
 
 Attached the base to the elevated cell which will allow it to sit on top of walls.
 
-![](./../../assets/images/elevated_cell.jpg)
+![](./../../assets/images/elevated-cell-assembled.jpg)

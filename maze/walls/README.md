@@ -37,8 +37,12 @@ For walls and pillars, you may want to print the tops in red. A wipe tower is re
 
 2 drops of glue per pillar should be all that is needed. <strong>The pins should be pressed in firmly, so they bottom out in the pillar.</strong>
 
-![](./../../assets/images/pillar_assembly.jpg)
+![](./../../assets/images/pillar-assembly.jpg)
+
+Walls slide down between two pillars
+
+![](./../../assets/images/wall-assembled.jpg)
 
 For the lower ramp walls, two dowel pins should be glued into them, so they can be inserted into the ramp. <strong>The pins should be pressed in firmly, so they bottom out in the wall.</strong>
 
-![](./../../assets/images/ramp_walls.jpg)
+![](./../../assets/images/ramp-walls.jpg)

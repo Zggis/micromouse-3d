@@ -24,7 +24,7 @@ You can find all of these in the [walls](../walls/) directory.
 To add the top pillar and connect the ramp to the lattice,
 you will need the ramp vertex part which can be found in the [lattice](../lattice/) directory.
 
-![](./../../assets/images/ramp_assembled.jpg)
+![](./../../assets/images/ramp-assembled.jpg)
 
 > [!NOTE]
 > If you are placing a ramp on an upper level, cell inserts are not required underneath,
