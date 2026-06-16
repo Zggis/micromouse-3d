@@ -22,6 +22,7 @@ but the solid ramp may be more suitable for competitions and robots that travel 
 | Perimeters / Wall Loops       | 2     |                                                                                                                                                  |
 | Infill                        | 5%    | These are large pieces that don't require substantial strength.                                                                                  |
 | Minimum Shell Thickness - TOP | 1.2mm | This can also be achieved by setting top solid layers to 6 (assuming 0.2mm layer height). This helps to prevent pillowing on the travel surface. |
+| Brim                          | 4mm   | Ramp has small edges which can warp.                                                                                                             |
 
 ## Assembly
 

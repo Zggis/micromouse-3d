@@ -2,7 +2,10 @@
 
 ![](./../../assets/images/walls-missing.jpg)
 
-These parts are <strong>optional.</strong> They allow you to add cells adjacent to ramps which would otherwise be unusable. They may not be ideal for competition mazes, but for test mazes that have a limited footprint they create more cells to work with.
+These parts are <strong>optional.</strong> They allow you
+to add cells adjacent to and above ramps which would otherwise be unusable.
+They may not be ideal for competition mazes,
+but for test mazes that have a limited footprint they create more cells to work with.
 
 ## Print Settings
 

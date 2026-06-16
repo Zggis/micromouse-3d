@@ -98,6 +98,10 @@ thick plastic sheets such as the clear acrylic sheets from the bill of materials
 or you can print the cell inserts provided in this repository.
 Cells that use the elevated cell do not need a cell insert.
 
+### OPTIONAL Components
+
+[Special parts](./special/) and [Edge parts](./edges/) are optional to create more cells and improve aesthetic. Additional details can be found in their READMEs.
+
 ## Assembly
 
 Once you have all the components, the assembly is pretty straightforward. Here are a few points:
@@ -107,3 +111,10 @@ Once you have all the components, the assembly is pretty straightforward. Here a
 - If using the support pillars, insert a pillar into the vertex before installing it.
 - When assembling the lattice structure on top of support pillars, it may seem flimsy at first,
 but as you connect everything it will become more rigid.
+
+> [!TIP]
+> You may be tempted to build your maze like a parking garage, maximizing the number of cells on each level.
+> This makes it more difficult to calibrate a robot's IR sensors, and extract a robot when it becomes stuck.
+> Try building mazes with empty spaces between the levels and create balconies.
+> These type mazes still have the challenge of MM3D but make it easier to see the robots traveling through them.
+> Every vertex doesn't need four connectors, consider removing some to create more space to see and extract robots.
