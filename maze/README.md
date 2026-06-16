@@ -1,5 +1,7 @@
 # Building the Maze
 
+![](./../assets/images/maze-2.jpg)
+
 MM3D can be used as a stand-alone maze or an add-on to an existing maze.
 
 If you do not have a Micromomouse maze, you can use the parts [here](./base/) to create your base level.
