@@ -11,12 +11,12 @@
 > [!WARNING]
 > The support pillars are the most challenging part to print and tend to get knocked off the bed, especially when printing them in batches. To counter this, use an 8mm brim, enable Z-Hop or Lift Height (without ramping), and consider slowing down your print speed, perhaps using a height modified for the top. You should also ensure you have good bed adhesion, consider increasing your first layer print and bed temperatures.
 
-| Setting                 | Value | Reason                                                                                                 |
-|-------------------------|-------|--------------------------------------------------------------------------------------------------------|
-| Perimeters / Wall Loops | 3     |                                                                                                        |
-| Infill                  | 5%    |                                                                                                        |
-| Solid Layers - TOP      | 5     |                                                                                                        |
-| Brim                    | 8mm   | The pillars are tall with a small footprint, even with good bed adhesion a brim is highly recommended. | 
+| Setting                     | Value | Reason                                                                                                          |
+|-----------------------------|-------|-----------------------------------------------------------------------------------------------------------------|
+| Perimeters / Wall Loops     | 3     |                                                                                                                 |
+| Infill                      | 5%    |                                                                                                                 |
+| Solid Layers - Top & Bottom | 3     | No need for more than 3 on these parts, make sure your minimum shell thickness is small enough to support this. |
+| Brim                        | 8mm   | The pillars are tall with a small footprint, even with good bed adhesion a brim is highly recommended.          | 
 
 ### Elevated Cell & Base
 

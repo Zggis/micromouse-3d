@@ -2,6 +2,16 @@
 
 ![](./../../assets/images/ramp.jpg)
 
+## Framed Ramp
+
+Two types of ramps are available.
+The ramp frame allows you to use clear acrylic panels, so you can see through it to the levels below.
+The frame ramp uses less filament and prints quicker,
+but the solid ramp may be more suitable for competitions and robots that travel quickly.
+
+> [!NOTE]
+> You can mix and match ramp sections. For example, you can use a frame upper section with a solid middle.
+
 ## Print Settings
 
 - Orient the ramp parts on the bed the same way they will sit in the maze.

@@ -13,12 +13,12 @@ For walls and pillars, you may want to print the tops in red. A wipe tower is re
 - Walls should be printed upside down with the red surfaces on the bed.
 - You may need to rotate the lower ramp wall diagonally, so it can stretch between the corners of your bed given its size.
 
-| Setting                     | Value | Reason                                                                                                                                                                     |
-|-----------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Perimeters / Wall Loops     | 2     |                                                                                                                                                                            |
-| Infill                      | 10%   | Using less than 10% may impact reflectivity                                                                                                                                |
-| Solid Layers - TOP & Bottom | 3     | No need for more than 3 on these parts                                                                                                                                     |
-| Infill Type                 | Grid  | The walls are slightly translucent, using this infill pattern gives the best aesthetic and the most consistent reflectiveness.                                             |
+| Setting                     | Value | Reason                                                                                                                         |
+|-----------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------|
+| Perimeters / Wall Loops     | 2     |                                                                                                                                |
+| Infill                      | 10%   | Using less than 10% may impact reflectivity                                                                                    |
+| Solid Layers - Top & Bottom | 3     | No need for more than 3 on these parts, make sure your minimum shell thickness is small enough to support this.                |
+| Infill Type                 | Grid  | The walls are slightly translucent, using this infill pattern gives the best aesthetic and the most consistent reflectiveness. |
 
 ### Pillars
 
