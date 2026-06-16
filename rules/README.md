@@ -26,11 +26,11 @@ to make a left or right turn with no information can be the deciding factor in a
 The pyramid maze has multiple levels, each getting smaller with the goal at the center of the top level. Each level has one ramp in a known location and a known orientation. The locations and orientation of the ramps generally have some symmetry across the levels.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a grid of 6 x 7 cells
-- Third level is a grid of 3 x 4 cells
+- Second level is a grid of 6 x 6 cells (or 8 x 8 if you consider the ramp's exit, see rending for more details)
+- Third level is a grid of 3 x 4 cells (or 5 x 4 if you consider the ramp's exit, see rendering for more details)
 - Ramps are located along the opposite wall from where robots enter a level
 
-[Here](pyramid.STL) is a 3D rendering of an example pyramid maze you can rotate and move around. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
+[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
 - The starting location of robots would be on the lower level in one of two corner cells on the opposing wall of the ramp.
 - The starting orientation of the robots would always be facing the direction of the ramp.
@@ -48,12 +48,12 @@ The pyramid maze has multiple levels, each getting smaller with the goal at the 
 The bridge maze has two levels and two ramps. The second level acts like a bridge which must be traversed to reach the goal. The maze is configured in such a way robots are required to travel up one ramp and down the other to reach the final goal on the first level.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a grid of 10 x 4 cells
+- Second level is a grid of 10 x 4 cells (including ramps, see rendering for more details)
 - The goal is in the opposite corner the robot starts in on the first level
 - Ramps are in known locations with known orientations along the opposite walls robots enter the level from
 - Robots will start facing the first ramp they must traverse to reach the bridge
 
-[Here](bridge.STL) is a 3D rending of an example bridge maze. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
+[Here](bridge.STL) is a 3D rending of an example bridge maze, including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
 - Do not make any assumptions about how the first level is divided up, or how many cells on the first level need to be traversed on either side of the bridge.
 - Rankings are determined in the same way as the pyramid event above.
