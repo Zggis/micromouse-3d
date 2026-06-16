@@ -14,6 +14,11 @@ Without these assumptions,
 a robot's decision
 to make a left or right turn with no information can be the deciding factor in a competition.
 
+> [!IMPORTANT]
+> DO NOT assume every cell in the renderings below will be traversable and have a cell insert.
+> Some connectors will be removed, and some cells will have no insert to create more space to see and extract robots from the maze.
+
+
 ## Pyramid Event
 
 ![](./../assets/images/pyramid.jpg)
@@ -25,7 +30,7 @@ The pyramid maze has multiple levels, each getting smaller with the goal at the 
 - Third level is a grid of 3 x 4 cells
 - Ramps are located along the opposite wall from where robots enter a level
 
-[Here](pyramid.STL) is a 3D rendering of an example pyramid maze you can rotate and move around. In this rendering, all the walls you see are those which you can assume are present, except one wall outlining the goal.
+[Here](pyramid.STL) is a 3D rendering of an example pyramid maze you can rotate and move around. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
 - The starting location of robots would be on the lower level in one of two corner cells on the opposing wall of the ramp.
 - The starting orientation of the robots would always be facing the direction of the ramp.
@@ -48,7 +53,7 @@ The bridge maze has two levels and two ramps. The second level acts like a bridg
 - Ramps are in known locations with known orientations along the opposite walls robots enter the level from
 - Robots will start facing the first ramp they must traverse to reach the bridge
 
-[Here](bridge.STL) is a 3D rending of an example bridge maze. In this rending, all the walls you see are those which you can assume are present, except one wall outlining the goal.
+[Here](bridge.STL) is a 3D rending of an example bridge maze. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
 - Do not make any assumptions about how the first level is divided up, or how many cells on the first level need to be traversed on either side of the bridge.
 - Rankings are determined in the same way as the pyramid event above.
