@@ -1,6 +1,6 @@
 # Special Parts
 
-![](./../../assets/images/walls-missing.jpg)
+![](./../../assets/images/special.jpg)
 
 These parts are <strong>optional.</strong> They allow you
 to add cells adjacent to and above ramps which would otherwise be unusable.
@@ -39,3 +39,6 @@ Another dowel pin can be glued into the vertex spacer's slanted face.
 
 2 drops of glue per pillar should be all that is needed. <strong>The pins should be pressed in firmly, so they bottom out.</strong>
 
+![](./../../assets/images/special-assembled-a.jpg)
+
+![](./../../assets/images/special-assembled-b.jpg)

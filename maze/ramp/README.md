@@ -4,6 +4,8 @@
 
 ## Framed Ramp
 
+![](./../../assets/images/ramp-frame.jpg)
+
 Two types of ramps are available.
 The ramp frame allows you to use clear acrylic panels, so you can see through it to the levels below.
 The frame ramp uses less filament and prints quicker,

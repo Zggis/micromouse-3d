@@ -1,6 +1,6 @@
 # Edges
 
-![](./../../assets/images/walls-missing.jpg)
+![](./../../assets/images/edges.jpg)
 
 These parts are <strong>optional.</strong> They can be used for the edges of the lattice to improve the aesthetic and save a small amount of filament.
 
