@@ -59,19 +59,17 @@ To help accommodate this variation, all parts requiring pins are available with 
 I printed all the parts in PLA. Other materials may cause parts to shrink and impact the tolerances. You can try to scale the parts up in your slicer to account for this, but I have not tested it.
 
 > [!WARNING]
-> Try to keep printed parts away from direct sunlight, the connectors in particular can droop if they are exposed to heat while assembled.
+> Try to keep printed parts away from direct sunlight,
+> the connectors in particular can warp if they are exposed to heat.
 
-### Calibration
+### Printer Calibration
 
 Some of the printed parts rely on tolerances of 0.1mm.
 I suggest printing a few [lattice](./lattice/) parts to check the tolerances
 and make sure they fit together correctly before printing parts in bulk.
-If you find the tolerances are too small or too large, you can perform a skew calibration on your printer
-which should help bring it into alignment with the level of precision the parts are designed with.
-All of my printers have been calibrated
-using the free Calistar method you can find [here](https://github.com/dirtdigger/fleur_de_cali).
-Another thing that can cause issues with tolerances is your printer's nozzle.
-After enough prints, nozzles wear out and can't extrude lines thin enough to meet their specification.
+If you find the tolerances are too small or too large, try the following:
+- Change your printer's nozzle. After enough prints, nozzles wear out and can't extrude lines thin enough to meet their specification.
+- Perform a skew calibration on your printer. All of my printers have been calibrated using the free Calistar method you can find [here](https://github.com/dirtdigger/fleur_de_cali).
 
 ## Components
 
