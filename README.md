@@ -2,11 +2,14 @@
 
 ![](./assets/images/maze.jpg)
 
-Micromouse 3D builds off the traditional Micromouse event by using a multi-level maze. The maze includes ramps that allow robots to travel between levels of the maze to reach the goal. The cell dimensions are the same, most Micromouse robots won't require hardware changes to compete. MM3D provides new challenges for students and enthusiasts over the traditional Micromouse events.
+Micromouse 3D builds off the traditional Micromouse event by using a multi-level maze.
+The maze includes ramps that allow robots to travel between levels of the maze to reach the goal.
+The cell dimensions are the same, most Micromouse robots won't require hardware changes to participate.
+MM3D provides new challenges for students and enthusiasts over the traditional Micromouse events.
 
-## [Maze Construction](./maze/)
+## [Maze Construction](./maze/README.md)
 
-MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze. All the 3D print files are included in this repository, you can start [here](/maze/) to build the maze.
+MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze. All the 3D print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
 
 ## [Rules](./rules/)
 
