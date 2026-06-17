@@ -7,7 +7,7 @@ The maze includes ramps that allow robots to travel between levels of the maze t
 The cell dimensions are the same, most Micromouse robots won't require hardware changes to participate.
 MM3D provides new challenges for students and enthusiasts over the traditional Micromouse events.
 
-If you are planning to build the MM3D maze, or participate in a MM3D event please star this repository.
+If you are planning to build the MM3D maze, or participate in a MM3D event please star :star: this repository.
 This will help me gauge interest in this project.
 
 ## [Maze Construction](./maze/README.md)
