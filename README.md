@@ -15,3 +15,12 @@ Similar to traditional Micromouse, the rules for a MM3D event can be tuned to th
 Due to maze constraints, robots must meet the following size constraints for MM3D:
 - Mice must be less than 12cm high
 - Mice cannot reach over the walls
+
+## Version Compatibility
+
+[!WARNING]
+> Parts from different versions may not be compatible with each other as updates are made.
+
+Releases are published under a semantic version which you can find in [global.json](./global.json).
+You can switch the version by selecting a different tag in the repository.
+Release notes for each version can be found in [Releases.](https://github.com/Zggis/micromouse-3d/releases)
