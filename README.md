@@ -21,7 +21,7 @@ Due to maze constraints, robots must meet the following size constraints for MM3
 
 ## Version Compatibility
 
-[!WARNING]
+>[!WARNING]
 > Parts from different versions may not be compatible with each other as updates are made.
 
 Releases are published under a semantic version which you can find in [global.json](./global.json).
