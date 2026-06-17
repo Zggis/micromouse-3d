@@ -7,6 +7,9 @@ The maze includes ramps that allow robots to travel between levels of the maze t
 The cell dimensions are the same, most Micromouse robots won't require hardware changes to participate.
 MM3D provides new challenges for students and enthusiasts over the traditional Micromouse events.
 
+If you are planning to build the MM3D maze, or participate in a MM3D event please star this repository.
+This will help me gauge interest in this project.
+
 ## [Maze Construction](./maze/README.md)
 
 MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze. All the 3D print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
@@ -22,7 +25,7 @@ Due to maze constraints, robots must meet the following size constraints for MM3
 ## Version Compatibility
 
 >[!WARNING]
-> Parts from different versions may not be compatible with each other as updates are made.
+> Parts from different versions may not be compatible as updates are made.
 
 Releases are published under a semantic version which you can find in [global.json](./global.json).
 You can switch the version by selecting a different tag in the repository.
