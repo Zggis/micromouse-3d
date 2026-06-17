@@ -11,7 +11,7 @@ MM3D provides new challenges for students and enthusiasts over the traditional M
 
 MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze. All the 3D print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
 
-## [Rules](./rules/)
+## [Rules](./rules/README.md)
 
 Similar to traditional Micromouse, the rules for a MM3D event can be tuned to the level of difficulty desired. Two events are outlined in this repository 'Pyramid' and 'Bridge'. These events serve as a template which competition organizers can build on and make adjustments as needed.
 
