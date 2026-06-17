@@ -12,11 +12,11 @@ All the 3D print files for MM3D are available in the subdirectories. Additional 
 
 In addition to parts you can 3D print, you will need to purchase the following:
 
-| Part                                    | Retail Link                       | Description                                                                                                                                                                                                                  |
-|-----------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE) | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                               |
-| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg) | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                               |
-| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn) | These are <strong>optional</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see your robot traveling on the level below. |
+| Part                                    | Retail Link                       | Description                                                                                                                                                                                                               |
+|-----------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE) | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                            |
+| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg) | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                            |
+| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn) | These are <strong>optional</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below. |
 
 ## Printing Guidelines
 
@@ -79,7 +79,8 @@ There are four main components to MM3D:
 
 ### [Ramp](./ramp/)
 
-The MM3D ramp is divided into three printed sections which slide together. The ramp allows your robot to travel between levels. You generally only need one ramp per level, but some event types may require more.
+The MM3D ramp is divided into three printed sections which slide together.
+You generally only need one ramp per level, but some event types may require more.
 
 ### [Supports](./supports/)
 
@@ -96,7 +97,6 @@ The lattice is made from connectors and vertices which form the grid frame for c
 For the cell inserts, you can use 6"x6" 1/8"
 thick plastic sheets such as the clear acrylic sheets from the bill of materials above,
 or you can print the cell inserts provided in this repository.
-Cells that use the elevated cell do not need a cell insert.
 
 ### OPTIONAL Components
 

@@ -2,6 +2,9 @@
 
 ![](./../../assets/images/cell-insert.jpg)
 
+>[!NOTE]
+> Cell inserts are not required for the elevated cell, or cells that have a ramp in them.
+
 ## Print Settings
 
 Orient the part upside down with the top surface on the bed.
