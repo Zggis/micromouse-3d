@@ -2,12 +2,13 @@
 
 ![](./../../assets/images/ramp.jpg)
 
-## Framed Ramp
+## Ramp Frame
 
 ![](./../../assets/images/ramp-frame.jpg)
 
 Two types of ramps are available.
-The ramp frame allows you to use clear acrylic panels, so you can see through it to the levels below.
+The ramp frame allows you to use the same clear acrylic panels as the cell inserts,
+so you can see through it to the levels below.
 The frame ramp uses less filament and prints quicker,
 but the solid ramp may be more suitable for competitions and robots that travel quickly.
 
@@ -28,13 +29,13 @@ but the solid ramp may be more suitable for competitions and robots that travel 
 
 ## Assembly
 
-The three ramp sections slide together, no glue is necessary. To connect the ramp to the lattice, use the ramp vertex part secured in pace with two pillars.
+The three ramp sections slide together, no glue is necessary.
 
 To add walls to the ramp,
 you can use the special ramp walls along with the standard pillars to anchor them into the ramp.
 You can find all of these in the [walls](../walls/) directory.
 
-To add the top pillar and connect the ramp to the lattice,
+To add the top pillars and connect the ramp to the lattice,
 you will need the ramp vertex part which can be found in the [lattice](../lattice/) directory.
 
 ![](./../../assets/images/ramp-assembled.jpg)
