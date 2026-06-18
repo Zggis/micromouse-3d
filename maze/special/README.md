@@ -11,7 +11,7 @@ but for test mazes that have a limited footprint they create more cells to work 
 
 ### Walls
 
-- Walls should be printed upside down with the red surfaces on the bed.
+- Middle walls should be printed upright, with the red surface on top. The other walls should be printed upside down with the red surfaces on the bed.
 
 | Setting                     | Value | Reason                                                                                                                         |
 |-----------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -22,8 +22,8 @@ but for test mazes that have a limited footprint they create more cells to work 
 
 ### Vertex and Vertex Spacer
 
-- Vertex should be printed as it is in the mze with the dovetails facing up.
-- Vertex spacer should be oriented, so it stands up straight with slanted surface on top.
+- Vertex should be printed as it is in the maze with the dovetails facing up.
+- Vertex spacer should be oriented, so it stands up straight with the slanted surface on top.
 
 | Setting                 | Value | Reason |
 |-------------------------|-------|--------|
@@ -35,7 +35,7 @@ but for test mazes that have a limited footprint they create more cells to work 
 
 6mm dowel pins should be glued into the ramp-wall-half, not the ramp-wall-middle.
 
-Another dowel pin can be glued into the vertex spacer's slanted face.
+A dowel can be glued into the vertex spacer's slanted face.
 
 2 drops of glue per pillar should be all that is needed. <strong>The pins should be pressed in firmly, so they bottom out.</strong>
 
