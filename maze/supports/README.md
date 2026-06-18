@@ -20,20 +20,35 @@
 
 ### Elevated Cell & Base
 
-- Orient the elevated cell on the bed the same way they will sit in the maze.
+- Orient the elevated cell with the holes on the bed.
+- The elevated cell base should have the chamfer facing up.
 
-| Setting                 | Value | Reason                                                                                                                                                                                                               |
-|-------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Perimeters / Wall Loops | 2     |                                                                                                                                                                                                                      |
-| Infill                  | 5%    | If you have trouble with pillowing on the top level of the elevated cell you can increase infill to 15%, to save filament you may want to use a height modifier so you can use 5% at the bottom and 15% near the top |
-| Solid Layers - TOP      | 6     |                                                                                                                                                                                                                      |
+| Setting                 | Value | Reason |
+|-------------------------|-------|--------|
+| Perimeters / Wall Loops | 2     |        |
+| Infill                  | 5%    |        |
+| Solid Layers - TOP      | 6     |        |
+
+### Elevated Cell Top
+
+- Orient the elevated cell top on the bed the same way it will sit in the maze with dovetails facing up.
+
+| Setting                 | Value | Reason                                                                                                               |
+|-------------------------|-------|----------------------------------------------------------------------------------------------------------------------|
+| Perimeters / Wall Loops | 3     |                                                                                                                      |
+| Infill                  | 15%   |                                                                                                                      |
+| Solid Layers - TOP      | 5     |                                                                                                                      |
+| Bridging Angle          | 45    | This part requires a small bridge, 45 degree angle ensures the bridge span is as small as possible for best results. |
+
 
 ## Assembly
 
 6mm dowel pins should be glued into the pillars and elevated cell. I recommend using the dowels mentioned in the bill of materials to ensure the best fit.
 
-1 - 2 drops of glue per hole should be all that is needed.
+1 - 2 drops of glue per hole should be enough.
 
 Attached the base to the elevated cell which will allow it to sit on top of walls.
 
-![](./../../assets/images/elevated-cell-assembled.jpg)
+![](./../../assets/images/elevated-cell-assembled-1.jpg)
+
+![](./../../assets/images/elevated-cell-assembled-2.jpg)
