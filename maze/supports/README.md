@@ -23,11 +23,10 @@
 - Orient the elevated cell with the holes on the bed.
 - The elevated cell base should have the chamfer facing up.
 
-| Setting                 | Value | Reason |
-|-------------------------|-------|--------|
-| Perimeters / Wall Loops | 2     |        |
-| Infill                  | 5%    |        |
-| Solid Layers - TOP      | 6     |        |
+| Setting                     | Value | Reason                                                                                                          |
+|-----------------------------|-------|-----------------------------------------------------------------------------------------------------------------|
+| Perimeters / Wall Loops     | 2     |                                                                                                                 |
+| Infill                      | 5%    |                                                                                                                 |
 
 ### Elevated Cell Top
 
