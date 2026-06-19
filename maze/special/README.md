@@ -25,11 +25,11 @@ but for test mazes that have a limited footprint they create more cells to work 
 - Vertex should be printed as it is in the maze with the dovetails facing up.
 - Vertex spacer should be oriented, so it stands up straight with the slanted surface on top.
 
-| Setting                 | Value | Reason |
-|-------------------------|-------|--------|
-| Perimeters / Wall Loops | 3     |        |
-| Infill                  | 15%   |        |
-| Solid Layers - TOP      | 5     |        |
+| Setting                 | Value | 
+|-------------------------|-------|
+| Perimeters / Wall Loops | 3     | 
+| Infill                  | 15%   | 
+| Solid Layers - TOP      | 5     |
 
 ## Assembly
 
