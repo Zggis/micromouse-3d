@@ -85,18 +85,18 @@ You generally only need one ramp per level, but some event types may require mor
 ### [Supports](./supports/)
 
 There are two ways you can support the upper levels of the maze:
-+ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the standalone [base](./base/)), you can use these to support the second level.
-+ Using the elevated cell which sits in an open cell. This requires more printing but is compatible with any maze that meets the standard Micromouse dimensions.
++ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the standalone [base](./base/)), you can use these to support the second level as well.
++ Using the elevated cell which sits in an open cell. This requires more printing, but is compatible with any maze that meets the standard Micromouse dimensions.
 
 ### [Lattice Structure](./lattice/)
 
-The lattice is made from connectors and vertices which form the grid frame for cells on the upper levels. If you are using the elevated cell to support the lattice, you do not need to print the vertices since the connectors will attach directly to the elevated cell.
+The lattice is made from connectors and vertices which form the cell grid on upper levels.
 
 ### [Cell Inserts](./inserts/)
 
 For the cell inserts, you can use 6"x6" 1/8"
 thick plastic sheets such as the clear acrylic sheets from the bill of materials above,
-or you can print the cell inserts provided in this repository.
+or you can print the cell inserts.
 
 ### OPTIONAL Components
 
@@ -108,7 +108,7 @@ Once you have all the components, the assembly is pretty straightforward. Here a
 
 - The ramp pieces slide together and can be inserted into the maze sliding it up against a wall. The ramp edge should be right at the threshold of the cell.
 - Make sure to orient the connectors and vertices correctly, the dovetails should face up, and the ledge on the connectors should face up to cradle the cell inserts.
-- If using the support pillars, insert a pillar into the vertex before installing it.
+- If using the support pillars, insert a standard pillar into the vertex before resting it on the support pillar.
 - When assembling the lattice structure on top of support pillars, it may seem flimsy at first,
 but as you connect everything it will become more rigid.
 

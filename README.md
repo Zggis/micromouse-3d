@@ -1,4 +1,4 @@
-# Micromouse 3D
+# Micromouse 3D :mouse2:
 
 ![](./assets/images/maze.jpg)
 
@@ -12,7 +12,9 @@ This will help me gauge interest in this project.
 
 ## [Maze Construction](./maze/README.md)
 
-MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze. All the 3D print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
+MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze.
+The parts have been designed to fit on standard 250 size 3D printers.
+All the 3D print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
 
 ## [Rules](./rules/README.md)
 
