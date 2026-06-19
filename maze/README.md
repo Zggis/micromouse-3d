@@ -1,4 +1,4 @@
-# Building the Maze
+# :hammer: Building the Maze
 
 ![](./../assets/images/maze-2.jpg)
 
@@ -8,7 +8,7 @@ If you do not have a Micromomouse maze, you can use the parts [here](./base/) to
 
 All the 3D print files for MM3D are available in the subdirectories. Additional README files can be found in each directory explaining what the part is used for and the recommended print settings for it.
 
-## Bill of Materials
+## :page_with_curl: Bill of Materials
 
 In addition to parts you can 3D print, you will need to purchase the following:
 
@@ -18,7 +18,7 @@ In addition to parts you can 3D print, you will need to purchase the following:
 | Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg) | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                            |
 | 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn) | These are <strong>optional</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below. |
 
-## Printing Guidelines
+## :printer: Printing Guidelines
 
 ### File Types
 
