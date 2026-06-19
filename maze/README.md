@@ -1,6 +1,6 @@
 # :hammer: Building the Maze
 
-![](./../assets/images/maze-2.jpg)
+![](./../assets/images/maze-2-small.jpg)
 
 MM3D can be used as a stand-alone maze or an add-on to an existing maze.
 
