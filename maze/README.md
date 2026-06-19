@@ -73,7 +73,7 @@ If you find the tolerances are too small or too large, try the following:
 - Change your printer's nozzle. After enough prints, nozzles wear out and can't extrude lines thin enough to meet their specification.
 - Perform a skew calibration on your printer. All of my printers have been calibrated using the free Calistar method you can find [here](https://github.com/dirtdigger/fleur_de_cali).
 
-## :toolbox: Components
+## Components
 
 There are four main components to MM3D:
 
