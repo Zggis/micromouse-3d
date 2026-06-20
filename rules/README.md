@@ -49,7 +49,9 @@ Each level has one ramp in a known location and a known orientation.
 
 ![](./../assets/images/bridge.jpg)
 
-The bridge maze has two levels and two ramps. The second level acts like a bridge which must be traversed to reach the goal. The maze is configured in such a way robots are required to travel up one ramp and down the other to reach the final goal on the first level.
+The bridge maze has two levels and two ramps.
+The second level acts like a bridge which must be traversed to reach the goal.
+The maze walls will be configured in such a way reaching the goal will not be possible without traversing both ramps.
 
 - First level is a grid of 10 x 10 cells
 - Second level is a grid of 10 x 4 cells (including ramps, see image for more details)
