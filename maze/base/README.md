@@ -6,6 +6,9 @@ Since it uses a 6mm peg hole, it is compatible with the support pillars, removin
 
 ![](./../../assets/images/vertex-base.jpg)
 
+If you prefer not to the 3D print the base,
+[these base tiles](https://swglobes.com/products/micromouse-maze-tile) are fully compatible with MM3D.
+
 ## Print Settings
 
 Orient the part so the dovetails face up as they would when assembled.

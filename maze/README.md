@@ -10,13 +10,14 @@ All the 3D print files for MM3D are available in the subdirectories. Additional 
 
 ## :page_with_curl: Bill of Materials
 
-In addition to parts you can 3D print, you will need to purchase the following:
+In addition to parts you can 3D print, you can purchase the following:
 
-| Part                                    | Retail Link                       |                                                                                                                                                                                                                       |
-|-----------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE) | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                        |
-| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg) | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                        |
-| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn) | These are <strong>optional</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below. |
+| Part                                    | Retail Link                                                   |                                                                                                                                                                                                                                                  |
+|-----------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE)                             | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                                                   |
+| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg)                             | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                                                   |
+| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn)                             | These are <strong>OPTIONAL</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below.                        |
+| Base Tiles                              | [Shopify](https://swglobes.com/products/micromouse-maze-tile) | These are <strong>OPTIONAL</strong>, if you don't already have a maze they can be substituted with the 3D printed [base](./base/). These tiles are great for large mazes and fast robots that may not be able to perform on the 3D printed base. |
 
 ## :printer: Printing Guidelines
 
