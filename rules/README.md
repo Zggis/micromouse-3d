@@ -14,6 +14,9 @@ Without these assumptions,
 a robot's decision
 to make a left or right turn with no information can be the deciding factor in a competition.
 
+Both events outlined below have fewer than the 256 cells required for traditional Micromouse events,
+so they should not require additional memory for robots to participate.
+
 > [!IMPORTANT]
 > DO NOT assume every cell in the images below will be accessible and have a cell insert.
 > Some connectors will be removed,
