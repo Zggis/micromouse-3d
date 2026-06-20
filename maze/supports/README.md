@@ -50,4 +50,4 @@ Attach the base to the elevated cell which will allow it to sit on top of walls.
 
 ![](./../../assets/images/cell-insert-assembled.jpg)
 
-![](./../../assets/images/elevated-cell-assembled-2.jpg)
+![](./../../assets/images/elevated-cell-assembled.jpg)

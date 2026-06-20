@@ -45,4 +45,4 @@ Walls slide down between two pillars
 
 For the lower ramp walls, two dowel pins should be glued into them, so they can be inserted into the ramp. <strong>The pins should be pressed in firmly, so they bottom out in the wall.</strong>
 
-![](./../../assets/images/ramp-walls.jpg)
+![](./../../assets/images/ramp-assembled.jpg)
