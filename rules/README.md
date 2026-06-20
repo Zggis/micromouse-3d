@@ -30,18 +30,16 @@ so they should not require additional memory for robots to participate.
 
 The pyramid maze has three levels, each getting smaller with the goal at the center of the top level.
 Each level has one ramp in a known location and a known orientation.
-The locations and orientation of the ramps generally have some symmetry across the levels.
 
 - The first level is a grid of 10 x 10 cells
 - Second and third levels are smaller grids as seen in the image above.
-- Ramps are located along the opposite wall from where robots enter a level
-
-[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
-
 - The starting location of robots would be on the lower level in one of two corner cells on the opposing wall of the ramp.
 - The starting orientation of the robots would always be facing the ramp on the first level. See the red arrows in the image above.
 - The starting cell will have three walls.
 - Ramps will always let robots out into a corner cell as seen in the image.
+
+[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
+
 - Rankings are determined by the fastest run time from the start cell to the goal.
 - Robots that do not make it to the goal are ranked by the lowest flood fill value of their current position when picked up by an operator. <strong>NOT</strong> the lowest flood value they achieve during the run, this is too difficult for judges to keep track of.
   - The entire ramp is treated as a single cell for flood fill rankings. Robots that are picked up on the same ramp are effectively tied with their final rankings up to the discretion of the judges.
