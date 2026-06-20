@@ -15,8 +15,10 @@ a robot's decision
 to make a left or right turn with no information can be the deciding factor in a competition.
 
 > [!IMPORTANT]
-> DO NOT assume every cell in the renderings below will be traversable and have a cell insert.
-> Some connectors will be removed, and some cells will have no insert to create more space to see and extract robots from the maze.
+> DO NOT assume every cell in the renderings below will be accessible and have a cell insert.
+> Some connectors will be removed,
+> and some cells will have no insert to create more space to see and extract robots from the maze.
+> Walls will block off these areas so robots can't reach them.
 
 
 ## Pyramid Event
