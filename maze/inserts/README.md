@@ -22,12 +22,12 @@ Any 1/8" thick 6"x6" panel should work as an insert. Clear acrylic panels are gr
 
 >[!WARNING]
 > Cell inserts must be dimensionally accurate with high precision.
-> Modern 3D printers have no trouble achieving this,
-> if you are considering plastic panels from a retailer other than the one
+> Modern 3D printers have no trouble achieving this.
+> If you are considering plastic panels from a retailer other than the one
 > mentioned in the [Bill of Materials](../../maze/#page_with_curl-bill-of-materials),
 > make sure the tolerances are precise before purchasing them.
 > The insert frame has a +0.3mm tolerance;
-> I have seen some plastic sheets online that claim a 1/16" tolerance, these would not be compatible.
+> I have seen some plastic sheets online that claim a 1/16" tolerance, these may not be compatible.
 
 While I have not tried it, you can also attempt to print cell inserts in translucent PLA.
 
