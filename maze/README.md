@@ -117,5 +117,6 @@ but as you connect everything it will become more rigid.
 > You may be tempted to build your maze like a parking garage, maximizing the number of cells on each level.
 > This makes it more difficult to calibrate a robot's IR sensors, and extract a robot when it becomes stuck.
 > Try building mazes with empty spaces between the levels and create balconies.
-> These type mazes still have the challenge of MM3D but make it easier to see the robots traveling through them.
+> These mazes still have the challenge of MM3D, but make it easier to see robots traveling through them.
 > Every vertex doesn't need four connectors, consider removing some to create more space to see and extract robots.
+> The image of the maze at the top of this page is a good example.
