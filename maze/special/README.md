@@ -37,7 +37,8 @@ but for test mazes that have a limited footprint they create more cells to work 
 
 A dowel can be glued into the vertex spacer's slanted face.
 
-2 drops of glue per pillar should be all that is needed. <strong>The pins should be pressed in firmly, so they bottom out.</strong>
+2 drops of glue in each hole should be all that is needed.
+<strong>The pins should be pressed in firmly, so they bottom out.</strong>
 
 ![](./../../assets/images/special-assembled-a.jpg)
 

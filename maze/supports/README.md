@@ -6,7 +6,7 @@
 
 ### Support Pillars
 
-- Orient the support pillar on the bed the same way they will sit in the maze.
+- Orient the support pillars on the bed the same way they will sit in the maze.
 
 > [!WARNING]
 > The support pillars are the most challenging part to print and tend to get knocked off the bed, especially when printing them in batches. To counter this, use an 8mm brim, enable Z-Hop or Lift Height (without ramping), and consider slowing down your print speed, perhaps using a height modified for the top. You should also ensure you have good bed adhesion, consider increasing your first layer print and bed temperatures.
@@ -42,12 +42,14 @@
 
 ## Assembly
 
-6mm dowel pins should be glued into the pillars and elevated cell. I recommend using the dowels mentioned in the bill of materials to ensure the best fit.
+6mm dowel pins should be glued into the pillars and elevated cell.
+I recommend
+using the dowels in the [Bill of Materials](../../maze/#page_with_curl-bill-of-materials) to ensure the best fit.
 
 1 - 2 drops of glue per hole should be enough.
 
-Attach the base to the elevated cell which will allow it to sit on top of walls. You can place the top part on last.
-
 ![](./../../assets/images/cell-insert-assembled.jpg)
+
+Attach the base to the elevated cell which will allow it to sit in a closed off cell. You can place the top part on last.
 
 ![](./../../assets/images/elevated-cell-assembled.jpg)

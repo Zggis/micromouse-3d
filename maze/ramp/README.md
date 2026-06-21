@@ -8,7 +8,7 @@
 
 Two types of ramps are available.
 The ramp frame allows you to use the same clear acrylic panels as the cell inserts,
-so you can see through it to the levels below.
+so you can see the levels below.
 The frame ramp uses less filament and prints quicker,
 but the solid ramp may be more suitable for competitions and robots that travel quickly.
 

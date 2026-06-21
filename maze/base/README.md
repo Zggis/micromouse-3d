@@ -22,6 +22,7 @@ Orient the part so the dovetails face up as they would when assembled.
 ## Assembly
 
 > [!NOTE]
-> If placing a ramp in the cell, a cell insert is not needed, the ramp can sit directly on the connectors.
+> If you are placing a ramp in a cell, inserts are not required underneath,
+> the ramp can straddle the connectors.
 
 ![](./../../assets/images/vertex-base-assembled.jpg)
