@@ -109,7 +109,7 @@ Once you have all the components, the assembly is pretty straightforward. Here a
 
 - The ramp pieces slide together and can be inserted into the maze sliding it up against a wall. The ramp edge should be right at the threshold of the cell.
 - Make sure to orient the connectors and vertices correctly, the dovetails should face up, and the ledge on the connectors should face up to cradle the cell inserts.
-- If using the support pillars, insert a standard pillar into the vertex before resting it on the support pillar.
+- If using the support pillars, insert a pillar into the vertex before resting it on the support pillar.
 - When assembling the lattice structure on top of support pillars, it may seem flimsy at first,
 but as you connect everything it will become more rigid.
 
