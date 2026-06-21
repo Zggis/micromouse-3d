@@ -2,9 +2,13 @@
 
 ![](./../../assets/images/walls.jpg)
 
-## Multi Color :rainbow:
+## :rainbow: Multi Color
 
-For walls and pillars, you may want to print the tops in red. A wipe tower is really not necessary since you can switch colors for the entire layer. For mine, I printed three layers in red. The walls are designed to be printed upside down, so if you are doing a multi-color print you should separate the walls and pillars into different print jobs.
+For walls and pillars, you may want to print the tops in red.
+A wipe tower is not necessary since you can switch colors for the entire layer.
+For mine, I printed three layers in red.
+The walls are designed to be printed upside down,
+so if you are doing a multi-color print you should separate the walls and pillars into different print jobs.
 
 ## Print Settings
 
