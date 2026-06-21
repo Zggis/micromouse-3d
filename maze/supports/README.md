@@ -50,7 +50,7 @@ using the dowels in the [Bill of Materials](../../maze/#page_with_curl-bill-of-m
 
 ![](./../../assets/images/cell-insert-assembled.jpg)
 
-Attach the base to the elevated cell.
+Attach the top and base to the elevated cell.
 
 ![](./../../assets/images/elevated-cell-assembled-1.jpg)
 
