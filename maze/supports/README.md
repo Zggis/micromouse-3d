@@ -50,6 +50,10 @@ using the dowels in the [Bill of Materials](../../maze/#page_with_curl-bill-of-m
 
 ![](./../../assets/images/cell-insert-assembled.jpg)
 
-Attach the base to the elevated cell which will allow it to sit in a closed off cell. You can place the top part on last.
+Attach the base to the elevated cell.
+
+![](./../../assets/images/elevated-cell-assembled-1.jpg)
+
+The assembled elevated cell can sit in a closed off cell below.
 
 ![](./../../assets/images/elevated-cell-assembled.jpg)
