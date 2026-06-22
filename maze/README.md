@@ -45,11 +45,11 @@ To help accommodate this variation, all parts requiring pins are available with 
 > From my experience, a batch of dowels is pretty consistent.
 > If you switch batches, you should recheck the fit.
 
-| File Type Suffix | Dowel Hole Diameter |
-|------------------|---------------------|
-| _60              | 6.0mm               |
-| _61              | 6.1mm               |
-| _62              | 6.2mm               |
+| Filename Suffix | Dowel Hole Diameter |
+|-----------------|---------------------|
+| _60             | 6.0mm               |
+| _61             | 6.1mm               |
+| _62             | 6.2mm               |
 
 > [!NOTE]
 > If your pins don't work with these tolerances,
@@ -86,7 +86,7 @@ You generally only need one ramp per level, but some event types may require mor
 ### [Supports](./supports/)
 
 There are two ways you can support the upper levels of the maze:
-+ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the standalone [base](./base/)), you can use these to support the second level as well.
++ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the printed [base](./base/)), you can use these to support the second level as well.
 + Using the elevated cell which sits in an open cell. This requires more printing, but is compatible with any maze that meets the standard Micromouse dimensions.
 
 ### [Lattice Structure](./lattice/)
@@ -107,7 +107,7 @@ or you can print the cell inserts.
 
 Once you have all the components, the assembly is pretty straightforward. Here are a few points:
 
-- The ramp pieces slide together and can be inserted into the maze sliding it up against a wall. The ramp edge should be right at the threshold of the cell.
+- The ramp pieces slide together and can be inserted into the maze sliding the top piece up against a wall. The lower ramp edge should be right at the threshold of the cell.
 - Make sure to orient the connectors and vertices correctly, the dovetails should face up, and the ledge on the connectors should face up to cradle the cell inserts.
 - If using the support pillars, insert a pillar into the vertex before resting it on the support pillar.
 - When assembling the lattice structure on top of support pillars, it may seem flimsy at first,
