@@ -1,6 +1,6 @@
 # Base Maze
 
-If you don't already have a Micromouse maze, this vertex can be used with the lattice connectors and cell inserts to create a base level. This vertex is thicker to allow pillars to anchor into them without their pegs protruding.
+If you don't already have a Micromouse maze, this vertex can be used with the [lattice](../lattice/) connectors and [cell inserts](../inserts/) to create a base level. This vertex is thicker to allow pillars to anchor into them without their pegs protruding.
 
 Since it uses a 6mm peg hole, it is compatible with the support pillars, removing the need to use elevated cells.
 
