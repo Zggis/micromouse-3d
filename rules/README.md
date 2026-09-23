@@ -33,7 +33,7 @@ Each level has one ramp in a known location and a known orientation.
 
 - The first level is a grid of 10 x 10 cells
 - Second and third levels are smaller grids as seen in the image above.
-- The starting location of robots would be on the lower level in one of two corner cells on the opposing wall of the ramp.
+- The starting location of robots would be on the lower level in one of two corner cells furthest from the ramp.
 - The starting orientation of the robots would always be facing the ramp on the first level. See the red arrows in the image above.
 - The starting cell will have three walls.
 - Ramps will always let robots out into a corner cell as seen in the image.
