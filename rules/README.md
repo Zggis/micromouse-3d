@@ -9,7 +9,7 @@ where a robot may not be able to explore the entire maze and optimize a speed ro
 
 For MM3D,
 allowing competitors to know the location and orientation of ramps beforehand helps
-to ensure their overall ranking won't be dependent on the random chance.
+to ensure their overall ranking won't be left to chance.
 Without these assumptions,
 a robot's decision
 to make a left or right turn with no information can be the deciding factor in a competition.
