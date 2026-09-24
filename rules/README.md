@@ -18,11 +18,9 @@ Both events outlined below have fewer than the 256 cells required for traditiona
 so they should not require additional memory for robots to participate.
 
 > [!IMPORTANT]
-> DO NOT assume every cell in the images below will be accessible and have a cell insert.
-> Some connectors will be removed,
-> and some cells will have no insert to create more space to see and extract robots from the maze.
+> Do not assume every cell in the images below will be accessible and have a cell insert.
+> Some cells from the upper levels might be removed to create more space to see and extract robots from the maze.
 > Walls will block off these areas so robots can't reach them.
-
 
 ## Pyramid Event
 
