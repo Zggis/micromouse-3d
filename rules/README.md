@@ -36,7 +36,7 @@ Each level has one ramp in a known location and a known orientation.
 - The starting cell will have three walls.
 - Ramps will always let robots out into a corner cell as seen in the image.
 
-[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
+[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. I recommend turning on the Surface Angle view. In this rendering, all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
 
 - Rankings are determined by the fastest run time from the start cell to the goal.
 - Robots that do not make it to the goal are ranked by the lowest flood fill value of their current position when picked up by an operator. <strong>NOT</strong> the lowest flood value they achieve during the run, this is too difficult for judges to keep track of.
@@ -58,7 +58,7 @@ reaching the goal will not be possible without traversing both ramps.
 - Ramps are in known locations with known orientations
 - Robots will start facing the first ramp they must traverse to reach the bridge. See the red arrow in the image above. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
 
-[Here](bridge.STL) is a 3D rending of an example bridge maze, including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
+[Here](bridge.STL) is a 3D rending of an example bridge maze, including the position and orientation of its ramps. I recommend turning on the Surface Angle view. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
 > [!IMPORTANT]
 > Do not make any assumptions about how the first level is divided up,
