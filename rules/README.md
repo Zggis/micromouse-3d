@@ -53,7 +53,7 @@ The maze walls on the first level will be configured in such a way
 reaching the goal will not be possible without traversing both ramps.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a smaller grid of cells (see image for more details)
+- Second level is a smaller grid of cells as seen in the image above.
 - The goal is in the opposite corner the robot starts in on the first level
 - Ramps are in known locations with known orientations
 - Robots will start facing the first ramp they must traverse to reach the bridge. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
