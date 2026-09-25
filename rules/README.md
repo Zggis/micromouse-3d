@@ -56,7 +56,7 @@ reaching the goal will not be possible without traversing both ramps.
 - Second level is a smaller grid of cells as seen in the image above.
 - The goal is in the opposite corner the robot starts in on the first level
 - Ramps are in known locations with known orientations
-- Robots will start facing the first ramp they must traverse to reach the bridge. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
+- Robots will start facing the first ramp they must traverse to reach the bridge. See the red arrow in the image above. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
 
 [Here](bridge.STL) is a 3D rending of an example bridge maze, including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
 
