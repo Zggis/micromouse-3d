@@ -9,7 +9,7 @@ where a robot may not be able to explore the entire maze and optimize a speed ro
 
 For MM3D,
 allowing competitors to know the location and orientation of ramps beforehand helps
-to ensure their overall ranking won't be dependent on the random chance.
+to ensure their overall ranking won't be left to chance.
 Without these assumptions,
 a robot's decision
 to make a left or right turn with no information can be the deciding factor in a competition.
@@ -18,11 +18,9 @@ Both events outlined below have fewer than the 256 cells required for traditiona
 so they should not require additional memory for robots to participate.
 
 > [!IMPORTANT]
-> DO NOT assume every cell in the images below will be accessible and have a cell insert.
-> Some connectors will be removed,
-> and some cells will have no insert to create more space to see and extract robots from the maze.
+> Do not assume every cell in the images below will be accessible and have a cell insert.
+> Some cells from the upper levels might be removed to create more space to see and extract robots from the maze.
 > Walls will block off these areas so robots can't reach them.
-
 
 ## Pyramid Event
 
@@ -33,12 +31,13 @@ Each level has one ramp in a known location and a known orientation.
 
 - The first level is a grid of 10 x 10 cells
 - Second and third levels are smaller grids as seen in the image above.
-- The starting location of robots would be on the lower level in one of two corner cells on the opposing wall of the ramp.
+- Both ramps will be in the positions and orientations seen in the image above.
+- The starting location of robots will be on the lower level in one of two corner cells furthest from the ramp. Competitors will not know which cell prior, all robots will start in the same cell.
 - The starting orientation of the robots would always be facing the ramp on the first level. See the red arrows in the image above.
 - The starting cell will have three walls.
 - Ramps will always let robots out into a corner cell as seen in the image.
 
-[Here](pyramid.STL) is a 3D rendering of an example pyramid maze including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
+[Here](pyramid.STL) is a 3D rendering of the pyramid maze including the position and orientation of its ramps. I recommend turning on the Surface Angle view. In this rendering (and the image above), all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
 
 - Rankings are determined by the fastest run time from the start cell to the goal.
 - Robots that do not make it to the goal are ranked by the lowest flood fill value of their current position when picked up by an operator. <strong>NOT</strong> the lowest flood value they achieve during the run, this is too difficult for judges to keep track of.
@@ -55,12 +54,12 @@ The maze walls on the first level will be configured in such a way
 reaching the goal will not be possible without traversing both ramps.
 
 - First level is a grid of 10 x 10 cells
-- Second level is a grid of 10 x 4 cells (including ramps, see image for more details)
+- Second level is a smaller grid of cells as seen in the image above.
+- Both ramps will be in the positions and orientations seen in the image above.
 - The goal is in the opposite corner the robot starts in on the first level
-- Ramps are in known locations with known orientations along the opposite walls robots enter the level from
-- Robots will start facing the first ramp they must traverse to reach the bridge. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
+- Robots will start facing the first ramp they must traverse to reach the bridge. See the red arrow in the image above. Unlike the pyramid event, there is only one possible starting corner for robots.
 
-[Here](bridge.STL) is a 3D rending of an example bridge maze, including the position and orientation of its ramps. In this rendering, all the walls you see are those which you can assume are present if the cell is accessible. One wall surrounding the goal will be absent.
+[Here](bridge.STL) is a 3D rending of the bridge maze, including the position and orientation of its ramps. I recommend turning on the Surface Angle view. In this rendering (and the image above), all the walls you see are those which you can assume are present if the adjacent cell is accessible. One wall surrounding the goal will be absent.
 
 > [!IMPORTANT]
 > Do not make any assumptions about how the first level is divided up,
