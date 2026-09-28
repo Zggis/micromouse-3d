@@ -31,6 +31,7 @@ Each level has one ramp in a known location and a known orientation.
 
 - The first level is a grid of 10 x 10 cells
 - Second and third levels are smaller grids as seen in the image above.
+- Both ramps will be in the positions and orientations seen in the image above.
 - The starting location of robots will be on the lower level in one of two corner cells furthest from the ramp. Competitors will not know which cell prior, all robots will start in the same cell.
 - The starting orientation of the robots would always be facing the ramp on the first level. See the red arrows in the image above.
 - The starting cell will have three walls.
@@ -54,6 +55,7 @@ reaching the goal will not be possible without traversing both ramps.
 
 - First level is a grid of 10 x 10 cells
 - Second level is a smaller grid of cells as seen in the image above.
+- Both ramps will be in the positions and orientations seen in the image above.
 - The goal is in the opposite corner the robot starts in on the first level
 - Ramps are in known locations with known orientations
 - Robots will start facing the first ramp they must traverse to reach the bridge. See the red arrow in the image above. Unlike the pyramid event, there is only one possible starting corner for robots as seen in the image above.
