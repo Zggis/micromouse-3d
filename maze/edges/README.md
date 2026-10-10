@@ -6,4 +6,4 @@ These parts are <strong>optional.</strong> They can be used for the edges of the
 
 ## Print Settings
 
-Use the same print settings as the corresponding [lattice](../lattice/) parts.
+Use the same print settings as the corresponding [lattice](https://github.com/Zggis/micromouse-3d/tree/main/maze/lattice#readme) parts.

@@ -44,7 +44,7 @@
 
 6mm dowel pins should be glued into the pillars and elevated cell.
 I recommend
-using the dowels in the [Bill of Materials](../../maze/#page_with_curl-bill-of-materials) to ensure the best fit.
+using the dowels in the [Bill of Materials](https://github.com/Zggis/micromouse-3d/tree/main/maze#page_with_curl-bill-of-materials) to ensure the best fit.
 
 1 - 2 drops of glue per hole should be enough.
 

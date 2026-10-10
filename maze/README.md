@@ -4,7 +4,7 @@
 
 MM3D can be used as a stand-alone maze or an add-on to an existing maze.
 
-If you do not have a Micromomouse maze, you can use the parts [here](./base/) to create your base level.
+If you do not have a Micromomouse maze, you can use the parts [here](https://github.com/Zggis/micromouse-3d/tree/main/maze/base#readme) to create your base level.
 
 All the 3D print files for MM3D are available in the subdirectories. Additional README files can be found in each directory explaining what the part is used for and the recommended print settings for it.
 
@@ -12,12 +12,12 @@ All the 3D print files for MM3D are available in the subdirectories. Additional 
 
 In addition to parts you can 3D print, you can purchase the following:
 
-| Part                                    | Retail Link                                                   |                                                                                                                                                                                                                                                  |
-|-----------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE)                             | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                                                   |
-| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg)                             | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                                                   |
-| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn)                             | These are <strong>OPTIONAL</strong>, they can be substituted with a 3D printed [cell inserts](./inserts/). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below.                        |
-| Base Tiles                              | [Shopify](https://swglobes.com/products/micromouse-maze-tile) | These are <strong>OPTIONAL</strong>, if you don't already have a maze they can be substituted with the 3D printed [base](./base/). These tiles are great for large mazes and fast robots that may not be able to perform on the 3D printed base. |
+| Part                                    | Retail Link                                                   |                                                                                                                                                                                                                                                                                                            |
+|-----------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15/64" x 1-1/4" (6mm) Wooden Dowel Pins | [Amazon](https://a.co/d/0eMDBzNE)                             | I recommend the RHINO brand to ensure the tolerances are compatible with the 3D printed parts.                                                                                                                                                                                                             |
+| Cyanoacrylate Glue (Super Glue)         | [Amazon](https://a.co/d/03UX3yRg)                             | Used to glue pegs into the 3D printed pillars.                                                                                                                                                                                                                                                             |
+| 6"x6" 1/8" Thick Clear Acrylic Sheets   | [Amazon](https://a.co/d/02cTOcOn)                             | These are <strong>OPTIONAL</strong>, they can be substituted with a 3D printed [cell inserts](https://github.com/Zggis/micromouse-3d/tree/main/maze/inserts#readme). Using them is beneficial as it reduces 3D printing and allows you to see robots traveling on the levels below.                        |
+| Base Tiles                              | [Shopify](https://swglobes.com/products/micromouse-maze-tile) | These are <strong>OPTIONAL</strong>, if you don't already have a maze they can be substituted with the 3D printed [base](https://github.com/Zggis/micromouse-3d/tree/main/maze/base#readme). These tiles are great for large mazes and fast robots that may not be able to perform on the 3D printed base. |
 
 ## :printer: Printing Guidelines
 
@@ -68,7 +68,7 @@ I printed all the parts in PLA. Other materials may cause parts to shrink and im
 ### Printer Calibration
 
 Some of the printed parts rely on tolerances of 0.1mm.
-I suggest printing a few [lattice](./lattice/) parts to check the tolerances
+I suggest printing a few [lattice](https://github.com/Zggis/micromouse-3d/tree/main/maze/lattice#readme) parts to check the tolerances
 and make sure they fit together correctly before printing parts in bulk.
 If you find the tolerances are too small or too large, try the following:
 - Change your printer's nozzle. After enough prints, nozzles wear out and can't extrude lines thin enough to meet their specification.
@@ -78,22 +78,22 @@ If you find the tolerances are too small or too large, try the following:
 
 There are four main components to MM3D:
 
-### [Ramp](./ramp/)
+### [Ramp](https://github.com/Zggis/micromouse-3d/tree/main/maze/ramp#readme)
 
 The MM3D ramp is divided into three printed sections which slide together.
 You generally only need one ramp per level, but some event types may require more.
 
-### [Supports](./supports/)
+### [Supports](https://github.com/Zggis/micromouse-3d/tree/main/maze/supports#readme)
 
 There are two ways you can support the upper levels of the maze:
-+ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the printed [base](./base/)), you can use these to support the second level as well.
++ Using pillars with integrated support. This requires less printing and does not take up cell space. They can be used on upper levels to support levels 3 and up. If your base uses 6mm diameter holes (or you are using the printed [base](https://github.com/Zggis/micromouse-3d/tree/main/maze/base#readme)), you can use these to support the second level as well.
 + Using the elevated cell which sits in an open cell. This requires more printing, but is compatible with any maze that meets the standard Micromouse dimensions.
 
-### [Lattice Structure](./lattice/)
+### [Lattice Structure](https://github.com/Zggis/micromouse-3d/tree/main/maze/lattice#readme)
 
 The lattice is made from connectors and vertices which form the cell grid on upper levels.
 
-### [Cell Inserts](./inserts/)
+### [Cell Inserts](https://github.com/Zggis/micromouse-3d/tree/main/maze/inserts#readme)
 
 For the cell inserts, you can use 6"x6" 1/8"
 thick plastic sheets such as the clear acrylic sheets from the bill of materials above,
@@ -101,7 +101,7 @@ or you can print the cell inserts.
 
 ### OPTIONAL Components
 
-[Special parts](./special/) and [Edge parts](./edges/) are optional to create more cells and improve aesthetic. Additional details can be found in their READMEs.
+[Special parts](https://github.com/Zggis/micromouse-3d/tree/main/maze/special#readme) and [Edge parts](https://github.com/Zggis/micromouse-3d/tree/main/maze/edges#readme) are optional to create more cells and improve aesthetic. Additional details can be found in their READMEs.
 
 ## Assembly
 

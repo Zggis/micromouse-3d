@@ -10,17 +10,17 @@ MM3D provides new challenges for students and enthusiasts over traditional Micro
 If you are planning to build a MM3D maze, or participate in a MM3D event please star :star: this repository.
 This will help me gauge interest in this project.
 
-## :building_construction: [Maze Construction](./maze/README.md)
+## :building_construction: [Maze Construction](https://github.com/Zggis/micromouse-3d/tree/main/maze#readme)
 
 MM3D uses 3D printed parts to assemble the ramp and upper levels of the maze.
 The parts have been designed to fit on standard 250mm size 3D printers.
-All the print files are included in this repository, you can start [here](/maze/README.md) to build the maze.
+All the print files are included in this repository, you can start [here](https://github.com/Zggis/micromouse-3d/tree/main/maze#readme) to build the maze.
 
 > [!IMPORTANT]
 > If you are planning to participate in a MM3D event,
 > it is highly recommended you build a small test maze with a ramp so you can calibrate your robot.
 
-## :scroll: [Rules](./rules/README.md)
+## :scroll: [Rules](https://github.com/Zggis/micromouse-3d/tree/main/rules#readme)
 
 Similar to traditional Micromouse, the rules for a MM3D event can be tuned to the level of difficulty desired. Two events are outlined in this repository 'Pyramid' and 'Bridge'. These events serve as a template which competition organizers can build on and make adjustments as needed.
 

@@ -33,10 +33,10 @@ The three ramp sections slide together, no glue is necessary.
 
 To add walls to the ramp,
 you can use the special ramp walls along with the standard pillars to anchor them into the ramp.
-You can find all of these in the [walls](../walls/) directory.
+You can find all of these in the [walls](https://github.com/Zggis/micromouse-3d/tree/main/maze/walls#readme) directory.
 
 To add the top pillars and connect the ramp to the lattice,
-you will need the ramp vertex part which can be found in the [lattice](../lattice/) directory.
+you will need the ramp vertex part which can be found in the [lattice](https://github.com/Zggis/micromouse-3d/tree/main/maze/lattice#readme) directory.
 
 ![](./../../assets/images/ramp-assembled.jpg)
 
