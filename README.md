@@ -30,7 +30,7 @@ Due to maze constraints, robots must meet the following size constraints for MM3
 
 ## :grey_question: Questions
 
-For any questions related to Micromouse 3D, the print files or assembly feel free to open an issue in this repository, and I will do my best to help.
+For any questions related to Micromouse 3D, the print files or assembly feel free to [open an issue here](https://github.com/zggis/micromouse-3d/issues/new?template=question.md) and I will do my best to help.
 
 ## Version Compatibility
 
