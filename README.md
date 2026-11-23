@@ -28,6 +28,10 @@ Due to maze constraints, robots must meet the following size constraints for MM3
 - Mice must be less than 12cm high
 - Mice cannot reach over the walls
 
+## :grey_question: Questions
+
+For any questions related to Micromouse 3D, the print files or assembly feel free to open an issue in this repository, and I will do my best to help.
+
 ## Version Compatibility
 
 >[!WARNING]
